@@ -48,6 +48,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	#centered {
+		margin: auto;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -2260,6 +2264,7 @@
 			ul.icons li {
 				display: inline-block;
 				padding: 0 1.5em 0 0;
+				font-size: xx-large;
 			}
 
 				ul.icons li:last-child {
@@ -2745,8 +2750,8 @@
 /* Footer */
 
 	#footer {
-		min-height: 100vh;
-		padding: 0 0 12em 0;
+		min-height: 30vh;
+		padding: 0 0 7em 0;
 		position: relative;
 		text-align: center;
 	}

@@ -1,3 +1,3 @@
 # Personal Portfolio
 
-[link](https://shiv-parikh.com)
+[Live Link](https://shiv-parikh.com)

@@ -1,3 +1,3 @@
 # Personal Portfolio
 
-[link]("https://shiv-parikh.com")
+[link](https://shiv-parikh.com)
